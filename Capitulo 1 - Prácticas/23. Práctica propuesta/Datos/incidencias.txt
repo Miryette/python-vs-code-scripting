@@ -1,0 +1,6 @@
+pc - no funciona bien 
+pc - fwe 
+pc - bien 
+f:\Python\.venv\Scripts\python.exe "f:/Python/Capitulo 1 - Prácticas/23. Práctica propuesta/Programas/registrar_incidencia.py" - f:\Python\.venv\Scripts\python.exe "f:/Python/Capitulo 1 - Prácticas/23. Práctica propuesta/Programas/registrar_incidencia.py" 
+& f:\Python\.venv\Scripts\python.exe "f:/Python/Capitulo 1 - Prácticas/23. Práctica propuesta/Programas/registrar_incidencia.py" - f:\Python\.venv\Scripts\python.exe "f:/Python/Capitulo 1 - Prácticas/23. Práctica propuesta/Programas/registrar_incidencia.py" 
+f:\Python\.venv\Scripts\python.exe "f:/Python/Capitulo 1 - Prácticas/23. Práctica propuesta/Programas/registrar_incidencia.py" - y5h 

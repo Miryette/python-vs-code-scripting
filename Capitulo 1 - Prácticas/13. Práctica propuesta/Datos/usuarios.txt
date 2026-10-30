@@ -1,0 +1,5 @@
+admin
+profesor
+alumno01
+alumno02
+invitado
